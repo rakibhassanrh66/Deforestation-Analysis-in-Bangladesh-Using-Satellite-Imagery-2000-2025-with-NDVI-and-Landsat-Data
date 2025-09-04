@@ -1,0 +1,2 @@
+# Deforestation-Analysis-in-Bangladesh-Using-Satellite-Imagery-2000-2025-with-NDVI-and-Landsat-Data
+A geospatial analysis project that tracks deforestation trends in Bangladesh over the last 25 years using Landsat satellite imagery and NDVI (Normalized Difference Vegetation Index). This project leverages Google Earth Engine (GEE) and Python libraries like geemap to process, visualize, and export vegetation maps
