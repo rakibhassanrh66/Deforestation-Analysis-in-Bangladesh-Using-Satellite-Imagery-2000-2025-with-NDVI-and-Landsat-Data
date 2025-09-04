@@ -11,13 +11,35 @@
 
 All exported NDVI images are stored in the Photos/ folder. Green indicates healthy vegetation, red/yellow indicates deforestation or low vegetation.
 
-<img src="Photos/1.png" width="300" style="margin:5px; border:1px solid #ddd; border-radius:4px;" />
-<img src="Photos/2.png" width="300" style="margin:5px; border:1px solid #ddd; border-radius:4px;" />
-<img src="Photos/3.png" width="300" style="margin:5px; border:1px solid #ddd; border-radius:4px;" />
-<img src="Photos/4.png" width="300" style="margin:5px; border:1px solid #ddd; border-radius:4px;" />
-<img src="Photos/5.png" width="300" style="margin:5px; border:1px solid #ddd; border-radius:4px;" />
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
 
----
+  <div style="border: 2px solid #ddd; border-radius: 8px; overflow: hidden; width: 300px; text-align: center;">
+    <img src="Photos/1.png" style="width: 100%; display: block;">
+    <div style="padding: 5px; background-color: #f8f8f8;">2000–2005</div>
+  </div>
+
+  <div style="border: 2px solid #ddd; border-radius: 8px; overflow: hidden; width: 300px; text-align: center;">
+    <img src="Photos/2.png" style="width: 100%; display: block;">
+    <div style="padding: 5px; background-color: #f8f8f8;">2006–2010</div>
+  </div>
+
+  <div style="border: 2px solid #ddd; border-radius: 8px; overflow: hidden; width: 300px; text-align: center;">
+    <img src="Photos/3.png" style="width: 100%; display: block;">
+    <div style="padding: 5px; background-color: #f8f8f8;">2011–2015</div>
+  </div>
+
+  <div style="border: 2px solid #ddd; border-radius: 8px; overflow: hidden; width: 300px; text-align: center;">
+    <img src="Photos/4.png" style="width: 100%; display: block;">
+    <div style="padding: 5px; background-color: #f8f8f8;">2016–2020</div>
+  </div>
+
+  <div style="border: 2px solid #ddd; border-radius: 8px; overflow: hidden; width: 300px; text-align: center;">
+    <img src="Photos/5.png" style="width: 100%; display: block;">
+    <div style="padding: 5px; background-color: #f8f8f8;">2021–2025</div>
+  </div>
+
+</div>
+
 
 ## 🔍 Project Overview
 
